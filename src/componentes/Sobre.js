@@ -1,6 +1,4 @@
-
 import Botao from "./Botao";
-
 
 function Sobre() {
     return (
@@ -11,9 +9,7 @@ function Sobre() {
                     <Botao
                         link='ttps://sodiedoces.com.br/'
                     />
-
-                    {/* <a href="https://sodiedoces.com.br/"><img */}
-                    {/* src="https://sodiedoces.com.br/wp-content/themes/sodiedoces/img/logo-sodie-rodape.png" alt=""/></a> */}
+     
                 </div>
                 <nav className="nav-footer">
                     <ul className="nav-list">
@@ -45,11 +41,8 @@ function Sobre() {
                         id='nav-franqueado center btn-marrom'
                     />
 
-
                     <a href="https://sodiedoces.com.br/imprensa" className="nav-franqueado center btn-marrom"
                         role="button">Imprensa</a>
-
-
 
                     <a href="https://suafranquia.sodiedoces.com.br/oportunidade/" target="_blank"
                         className="nav-franqueado center btn-marrom" role="button">Seja um franqueado</a>
@@ -59,7 +52,6 @@ function Sobre() {
                                 link='https://instagram.com/SodieDoces'
                                 id='fab fa-instagram'
                             />
-
 
                         </li>
                         <li>

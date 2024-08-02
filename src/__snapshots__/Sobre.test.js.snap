@@ -1,0 +1,219 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Sobre component correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <div
+      class="nav-container"
+      style="padding-top: 20px; padding-bottom: 20px;"
+    >
+      <div
+        class="brand"
+        style="padding-top: 20px; padding-bottom: 20px;"
+      >
+        <a
+          href="ttps://sodiedoces.com.br/"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <i
+            aria-hidden="true"
+          />
+        </a>
+      </div>
+      <nav
+        class="nav-footer"
+      >
+        <ul
+          class="nav-list"
+        >
+          <li>
+            <a
+              href="https://sodiedoces.com.br/sobre"
+            >
+              A Sodiê
+            </a>
+          </li>
+          <li
+            class="show-for-large"
+          >
+            <a
+              href="#!"
+              id="abrirsub"
+            >
+              Produtos 
+              <i
+                aria-hidden="true"
+                class="fas fa-caret-up"
+              />
+               
+            </a>
+            <ul
+              class="nav-dropdown"
+            >
+              <li>
+                <a
+                  href="https://sodiedoces.com.br/bolos"
+                >
+                  Bolos
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://sodiedoces.com.br/salgados"
+                >
+                  Salgados
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://sodiedoces.com.br/kit-festa"
+                >
+                  Kit Festa
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://sodiedoces.com.br/doces"
+                >
+                  Doces
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://sodiedoces.com.br/balas-de-coco"
+                >
+                  Balas de Coco
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li
+            class="show-for-small"
+          >
+            <a
+              href="https://sodiedoces.com.br/bolos"
+            >
+              Bolos
+            </a>
+          </li>
+          <li
+            class="show-for-small"
+          >
+            <a
+              href="https://sodiedoces.com.br/salgados"
+            >
+              Salgados
+            </a>
+          </li>
+          <li
+            class="show-for-small"
+          >
+            <a
+              href="https://sodiedoces.com.br/kit-festa"
+            >
+              Kit Festa
+            </a>
+          </li>
+          <li
+            class="show-for-small"
+          >
+            <a
+              href="https://sodiedoces.com.br/doces"
+            >
+              Doces
+            </a>
+          </li>
+          <li
+            class="show-for-small"
+          >
+            <a
+              href="https://sodiedoces.com.br/balas-de-coco"
+            >
+              Balas de Coco
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://sodiedoces.com.br/lojas"
+            >
+              Lojas
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://sodiedoces.com.br/contato"
+            >
+              Contato
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://sodiedoces.com.br/politica-de-privacidade"
+              target="_blank"
+            >
+              Política de Privacidade
+            </a>
+          </li>
+        </ul>
+      </nav>
+      <div
+        class="brand2 center"
+      >
+        <a
+          href="https://sodiedoces.com.br/imprensa"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <i
+            aria-hidden="true"
+          />
+        </a>
+        <a
+          class="nav-franqueado center btn-marrom"
+          href="https://sodiedoces.com.br/imprensa"
+          role="button"
+        >
+          Imprensa
+        </a>
+        <a
+          class="nav-franqueado center btn-marrom"
+          href="https://suafranquia.sodiedoces.com.br/oportunidade/"
+          role="button"
+          target="_blank"
+        >
+          Seja um franqueado
+        </a>
+        <ul
+          class="nav-social ulflex"
+        >
+          <li>
+            <a
+              href="https://instagram.com/SodieDoces"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <i
+                aria-hidden="true"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.facebook.com/sodiedocesoficial"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <i
+                aria-hidden="true"
+              />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

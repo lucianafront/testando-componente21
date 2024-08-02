@@ -1,6 +1,5 @@
 import "./Vitrine.css";
 import Bolo from "./Bolo";
-
 function Vitrine() {
   const bolos = [
     {

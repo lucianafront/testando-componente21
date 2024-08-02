@@ -3,7 +3,7 @@
 
 ### Componente Botão
 Espera 2 paremetros {link,ico}  
-link ->  para uma URL
+link ->  para uma URLa
 ico-> icone de fonte SVG
 
 ### Componente Cabecalho 
