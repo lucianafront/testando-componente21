@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`deve corresponder ao snapshot 1`] = `
+<DocumentFragment>
+  <a
+    href="https://example.com"
+    rel="noreferrer"
+    target="_blank"
+  >
+    <i
+      aria-hidden="true"
+      class="fa fa-icon"
+    />
+  </a>
+</DocumentFragment>
+`;

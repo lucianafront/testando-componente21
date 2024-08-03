@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`deve corresponder ao snapshot do componente Bolo 1`] = `
+<div>
+  <div
+    class="col-md-3 col-6 todosindredientes avela cenoura nutella"
+  >
+    <div
+      class="bolo-box center"
+    >
+      <span>
+        #
+        1
+      </span>
+      <a
+        href="https://example.com"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <img
+          alt=""
+          class="attachment-full size-full wp-post-image"
+          decoding="async"
+          height="235"
+          loading="lazy"
+          sizes="(max-width: 235px) 100vw, 235px"
+          src="https://example.com/image.jpg"
+          srcset="https://example.com/image.jpg 1x, https://example.com/image@2x.jpg 2x"
+          width="235"
+        />
+      </a>
+      <h2>
+        <a
+          href="https://example.com"
+          rel="noreferrer"
+          target="_blank"
+        >
+          Bolo de Cenoura
+        </a>
+      </h2>
+      <a
+        class="btn-bolos"
+        href="https://example.com"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Eu quero
+      </a>
+    </div>
+    <br />
+    <br />
+  </div>
+</div>
+`;
